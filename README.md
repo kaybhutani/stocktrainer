@@ -1,0 +1,2 @@
+# stocktrainer
+Stock trainer
